@@ -1,8 +1,6 @@
-// function hello(){
-// 		return "Hello World";
-// };
-
-// var avoString = [];
+function hello(){
+		return "Hello World";
+};
 
 function findAvoDeals(avoString){
   	var avoDeals = avoString.split(",")
